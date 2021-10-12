@@ -1,0 +1,24 @@
+{
+  "name": "shield-protocal-v1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@formulajs/formulajs": "^2.7.1",
+    "@openzeppelin/contracts": "^4.1.0",
+    "@openzeppelin/test-helpers": "^0.5.13",
+    "@pancakeswap/pancake-swap-lib": "0.0.4",
+    "bignumber.js": "^9.0.1",
+    "truffle-contract-size": "^2.0.1",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx builder test"
+  },
+  "author": "luoyhang003",
+  "license": "MIT"
+}
