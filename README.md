@@ -1,4 +1,4 @@
-# Shield constract v1
+# Shield Contracts v1
 
 Shield is building a one-of-a-kind decentralized protocol based on a fully non-cooperative game for future derivatives infrastructure, enabling global borderless access to finance.
 Perpetual options is our first academic-level innovative product based on Shield derivatives protocol. We will continue to build Standard Perpetual Contracts and Structured products based on the Shield protocol, and open-source the protocol to developers worldwide.
